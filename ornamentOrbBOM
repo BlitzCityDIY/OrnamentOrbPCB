@@ -1,0 +1,30 @@
+Partlist
+
+Exported from ornamentOrbV1.brd at 11/28/2018 9:37 PM
+
+EAGLE Version 9.2.2 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package           Library           Position (inch)       Orientation
+
+LED1                    LED5MM            adafruit          (1.58293307 1.06830709) R0
+LED2                    LED5MM            adafruit          (1.95694882 1.16673228) R0
+LED3                    LED5MM            adafruit          (2.05537402 1.56043307) R0
+LED4                    LED5MM            adafruit          (1.95694882 1.91476378) R0
+LED5                    LED5MM            adafruit          (1.58293307 2.01318898) R0
+LED6                    LED5MM            adafruit          (1.18923228 1.91476378) R0
+LED7                    LED5MM            adafruit          (1.11049213 1.56043307) R0
+LED8                    LED5MM            adafruit          (1.18923228 1.16673228) R0
+LED9                    LED5MM            adafruit          (1.58293307 1.56043307) R0
+R1                      R0805             adafruit          (1.45168898 1.29319685) MR0
+R2                      R0805             adafruit          (2.33261811 0.98689764) MR270
+R3                      R0805             adafruit          (2.47324803 1.56744882) MR270
+R4                      R0805             adafruit          (2.2842874 2.04288976) MR0
+R5                      R0805             adafruit          (1.29732677 2.24251181) MR180
+R6                      R0805             adafruit          (0.89537402 2.08225984) MR90
+R7                      R0805             adafruit          (0.77178346 1.57044882) MR90
+R8                      R0805             adafruit          (0.80567323 0.97989764) MR90
+R9                      R0805             adafruit          (1.71105906 1.39829134) MR0
+S1                      SWITCH_SPST_SMD_A SparkFun-Switches (2.9435 1.5528189)    MR90
+U$1                     CR2032-SMD        adafruit          (1.5575 0.5145)       MR180
